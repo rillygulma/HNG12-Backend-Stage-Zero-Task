@@ -13,3 +13,8 @@ A simple Node.js API that returns:
 ### Install Dependencies
 ```sh
 npm install
+
+## Related Resources
+
+If you're looking for skilled Node.js developers, check out HNG Node.js Developers.
+
