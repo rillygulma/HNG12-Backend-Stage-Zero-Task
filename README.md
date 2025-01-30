@@ -14,7 +14,7 @@ A simple Node.js API that returns:
 ```sh
 npm install
 
-## Related Resources
+ Related Resources
 
 If you're looking for skilled Node.js developers, check out HNG Node.js Developers.
 
