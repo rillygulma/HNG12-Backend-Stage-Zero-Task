@@ -5,6 +5,11 @@ A simple Node.js API that returns:
 - Current datetime in ISO 8601 format
 - GitHub repository URL
 
+Related Resources
+
+If you're looking for skilled Node.js developers, check out https://hng.tech/hire/nodejs-developers.
+
+
 ## Setup Instructions
 
 ### Prerequisites
@@ -13,8 +18,3 @@ A simple Node.js API that returns:
 ### Install Dependencies
 ```sh
 npm install
-
-
-## Related Resources
-
-If you're looking for skilled Node.js developers, check out https://hng.tech/hire/nodejs-developers.
